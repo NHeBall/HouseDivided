@@ -1,4 +1,4 @@
-﻿capital = 30
+﻿capital = 75
 oob = "UES_961"
 
 set_research_slots = 1
