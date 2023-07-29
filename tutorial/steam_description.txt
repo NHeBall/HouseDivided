@@ -1,0 +1,76 @@
+[i]We have moved Steam Workshop pages in order to maintain continuous access to the Workshop for all lead developers. Previous Workshop page can be found [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1096009291]here[/url] (unsupported, for reference purposes only).[/i] 
+
+[h1]Equestria at War[/h1] is a mod that tries to recreate the fantasy world of Equestria from My Little Pony franchise in a slightly darker setting with industrialization, corruption and political disagreements. The scenario focuses on global confrontation between Changelings and Equestria.
+
+[img]https://i.imgur.com/LdUh4ni.png[/img]
+
++ Pleasant My Little Pony fantasy setting
++ New custom map based on the My Little Pony Universe
++ Over 100 immersive focus trees, allowing for many possibilities
++ Expanded technology trees. Extended tech branches, magical equipment
++ New technology trees with racial and magical abilities of the fantasy races
++ Hundreds of events and event chains
++ All new artwork created for the mod and art from across the My Little Pony fandom
++ Ponyfied UI
++ Custom 3D models
++ [b][url=http://steamcommunity.com/sharedfiles/filedetails/?id=1348267085]Equestria at War Music Mod![/url][/b]
++ Supported Languages:
+ - English
+ - Russian
+ - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1728628604]Chinese[/url]
+
+Special thanks to [b][url=https://www.deviantart.com/plainoasis]Plainoasis[/url][/b] for allowing us to use his great art as steam logo background and in other parts in the mod and to [b][url=https://www.deviantart.com/shamanguli]Shamanguli[/url][/b] for his wonderful arts that are often used as thematic main menu backgrounds.
+
+[img]https://i.imgur.com/1EKssDO.png[/img]
+
+[h1]“Two Eagles: Arsenal of Harmony” 1.9.1[/h1]
+
+Once upon a time, war was simpler. There were concrete goals and issues. There were the tools of war, that had always been as such for centuries. Even gunpowder had a century to settle into the engine of war and find its place. But technology marches on, and technology is marching ever quicker.
+
+When the Aquileian soldier storms into battle she carries with her a voice and her weapons. The Elan, once important for any army has faded from the forefront when tanks and planes shrug off small bullets. The weapons of war have jumped miles in less than a decade, from rifles all the way to nuclear weapons.
+
+All around the world, as the dust settles from the wars that consumed the continent, they wait for the next war. A war to truly end all wars. Magic and sorcery give way to steel and technology. Where pegasi and griffons once dominated the skies, they are being pushed away by helicopters and fighters, machine guns tearing through soft tissue.
+
+On the seas, things look the same and yet completely different. Ships look the same as before, but their hearts, and their arms changed from top to bottom. Hearts fueled not by coal or by magic, but by the very foundational forces of the universe. The time of naval cannons are over. The future belongs to planes and to missiles. Admirals and generals at least recognize as such. And indeed, there will be a new look upon war.
+
+For war has changed. War is no longer a small affair between nations over this and that piece of land, but instead the fight between nations for their very survival. The nuclear ghost has been set loose upon the world, and it refuses to go away. War is no longer a polite affair. It is a matter of life or death of entire peoples.
+
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/changelog/1826643372]Read full changelog[/url][/b]
+[b][url=https://steamcommunity.com/sharedfiles/filedetails/changelog/1096009291]Read full changelog (before 1.5.1)[/url][/b]
+
+[img]https://i.imgur.com/j6KZAdt.png[/img]
+
+✢ SoonTM
+ • New Continent of Zebrica
+ • Rework of Equestrian nations
+
+[img]https://i.imgur.com/UzfdOjx.png[/img]
+
+                                                                          [img]https://i.imgur.com/48yee22.png[/img]
+                                                             [b][url=https://equestriaatwar.miraheze.org/wiki/Equestria_at_War_Wiki]Equestria at War Wiki[/url][/b]
+                                                                           [img]https://i.imgur.com/GJLYXip.png[/img]
+                                                            [b][url=https://discord.gg/kPkNFb5]Equestria at War Discord[/url][/b]
+                                                                        [img]https://i.imgur.com/iAlIajV.png[/img]
+                                                        [b][url=https://vk.com/equestria_at_war]Equestria at War VK[/url][/b]
+                                                                         [img]https://i.imgur.com/mNuJAXs.png][/img]
+                                                          [b][url=http://www.moddb.com/mods/equestria-at-war]Equestria at War ModDB[/url][/b]
+                                                                         [img]https://i.imgur.com/22rJ95c.png[/img]
+                                                [b][url=https://www.fimfiction.net/group/212917/equestria-at-war]Equestria at War FimFiction Group[/url][/b]
+                                                                         [img]https://i.imgur.com/SBK5qb5.png[/img]
+                                                            [b][url=https://www.reddit.com/r/equestriaatwar/]Equestria at War Reddit[/url][/b]
+
+Thanks to every volunteer, scripters and writer who are supporting the development of the mod.
+
+[i]The mod includes pictures from several artists, used without explicit permission. If you are the owner of the artwork and wish to have it removed, please send a note to one of the contributors on Steam or on the Discord server.[/i]
+
+[b]The guide below will help you install the mod manually, if you wish to do so.[/b]
+
+Installation:
+1. Download the equestria.zip archive, following one of these links
+[b][url=moddb.com/mods/equestria-at-war] ModDB page [/url][/b]
+2. Go to [b]C:\Users\<username>\Documents\Paradox Interactive\Hearts of Iron IV\mod[/b]
+[i]2.5. If the 'mod' folder doesn't exist, create it[/i]
+3. Place the contents of the downloaded equestria.zip archive into the mod folder.
+4. Equestria at War mod will appear in Hearts of Iron IV launcher.
+
+[url=https://youtu.be/JaovYo-uJoo] If you still have problems, check out this installation guide.[/url]

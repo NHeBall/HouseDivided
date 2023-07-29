@@ -1,0 +1,621 @@
+﻿division_template = {
+	name = "Ponies Militia"			#Infantry Division
+	division_names_group = EQS_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+	}
+
+	support = {
+		engineer = { x = 0 y = 0 }
+	}
+}
+
+division_template = {
+	name = "Artilery Regiment"
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		artillery_brigade = { x = 1 y = 0 }
+		artillery_brigade = { x = 1 y = 1 }
+		artillery_brigade = { x = 1 y = 2 }
+		artillery_brigade = { x = 2 y = 0 }
+		artillery_brigade = { x = 2 y = 1 }
+		artillery_brigade = { x = 2 y = 2 }
+	}
+
+	support = {
+		artillery = { x = 0 y = 0 }
+	}
+}
+
+
+units = {
+
+	division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Artilery Regiment"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Artilery Regiment"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Artilery Regiment"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Artilery Regiment"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Artilery Regiment"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+
+
+
+	division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 9741
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		
+		
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11427
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+		
+		division = {
+		division_name = {
+			is_name_ordered = yes
+		}
+		location = 11511
+		division_template = "Ponies Militia"
+		start_experience_factor = 0.3
+		start_equipment_factor = 0.9 }
+	
+}

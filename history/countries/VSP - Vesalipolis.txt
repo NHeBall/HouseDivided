@@ -1,0 +1,40 @@
+﻿capital = 125
+
+set_research_slots = 3
+
+set_technology = {
+	#pony_race = 1
+	melee_weapons = 1
+	melee_weapons1 = 1
+	pre_gw_artillery = 1
+}
+
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	neutrality = 100
+}
+set_politics = {
+
+	ruling_party = neutrality
+	last_election = "1.10.10"
+	election_frequency = 36
+	elections_allowed = no
+}
+
+
+add_ideas = {
+}
+set_stability = 0.65
+set_war_support = 0.35
+add_manpower = 300000
+
+
+
+set_rule = {
+	can_generate_female_aces = yes
+}
+
+
+
+

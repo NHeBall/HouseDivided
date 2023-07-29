@@ -1,0 +1,65 @@
+﻿capital = 38
+
+oob = "SCS_982"
+
+set_research_slots = 3
+
+
+set_technology = {
+	pony_race = 1
+	melee_weapons = 1
+	melee_weapons1 = 1
+	pre_gw_artillery = 1
+	tech_pegasi = 1
+}
+
+add_equipment_to_stockpile = {
+	type = infantry_equipment_0
+	amount = 10000
+	producer = EQS
+}
+add_equipment_to_stockpile = {
+	type = melee_equipment_1
+	amount = 1600
+	producer = EQS
+}
+
+
+set_convoys = 269
+
+
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	neutrality = 100
+}
+set_politics = {
+
+	ruling_party = neutrality
+	last_election = "1.10.10"
+	election_frequency = 36
+	elections_allowed = no
+}
+
+
+add_ideas = {
+}
+
+create_country_leader = {
+	name = "J.D. Neighvis"
+	expire = "1965.1.1"
+	picture = "JDavis.tga"
+	ideology = centrism
+	desc = neighvis_desc
+	traits = {
+	}
+}
+
+set_stability = 0.65
+set_war_support = 0.35
+add_manpower = 300000
+
+set_rule = {
+	can_generate_female_aces = yes
+}
+

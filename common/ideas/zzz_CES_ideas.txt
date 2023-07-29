@@ -1,0 +1,237 @@
+ideas = {
+	naval_manufacturer = {
+		designer = yes
+
+		stableside_naval_company = {
+			allowed = {
+				original_tag = CES
+			}
+			available = {
+				has_completed_focus = CES_naval_production
+				15 = { is_controlled_by = ROOT }
+			}
+			picture = CES_stableside_naval_company
+			traits = {
+				multi_purpose_fleet_naval_manufacturer
+			}
+		}
+	}
+
+	country = {
+		CES_disorganized = {
+
+			picture = generic_disjointed_gov
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			modifier = {
+				political_power_cost = 0.2
+				research_speed_factor = -0.2
+				stability_factor = -0.15
+			}
+		}
+	}
+	country = {
+		CES_fight_for_light= {
+
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = EQS_celestia_sun
+			modifier = {
+				army_morale_factor = 0.05
+				army_attack_factor = 0.05
+				army_defence_factor = 0.03
+				stability_factor = 0.05
+				war_support_factor = 0.15
+			}
+		}
+	}
+	country = {
+		CES_fight_for_light2= {
+			
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = EQS_celestia_sun
+			modifier = {
+				army_morale_factor = 0.05
+				army_attack_factor = 0.05
+				army_defence_factor = 0.03
+				stability_factor = 0.05
+				war_support_factor = 0.15
+				industrial_capacity_factory = 0.05
+				conscription_factor = 0.07
+			}
+		}
+	}
+	country = {
+		CES_night_gurads= {
+
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = CES_night_guards
+			modifier = {
+				army_defence_factor = 0.05
+				war_support_factor = 0.05
+			}
+		}
+	}
+	country = {
+		CES_wartime_farms_idea= {
+
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = CES_wartime_farms
+			modifier = {
+				research_speed_factor = 0.03
+				local_resources_factor = 0.05
+				supply_consumption_factor = -0.50
+				out_of_supply_factor = -0.10
+			}
+		}
+	}
+	country = {
+		CES_acclimatization_idea = {
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = clover
+			modifier = {
+				attrition = -0.1
+			}
+		}
+	}
+	country = {
+		CES_old_factory= {
+
+			available = {
+				NOT = { num_of_military_factories > 1 }
+			}
+			picture = STG_incomplete_industrialization
+			modifier = {
+				industrial_capacity_factory = -0.1
+			}
+		}
+	}
+	country = {
+		CES_military_potential_idea= {
+
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = CES_military_potential
+			modifier = {
+				industrial_capacity_factory = 0.07
+				industrial_capacity_dockyard = 0.07
+			}
+		}
+	}
+	country = {
+		CES_printing_press= {
+
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = CES_printing_press
+			modifier = {
+				political_power_gain = 0.1
+			}
+		}
+	}
+	country = {
+		BAL_CES_cooperation= {
+
+			available = {
+				has_war_with = NMS
+			}
+			modifier = {
+				political_power_gain = 0.05
+				planning_speed = 0.1
+				max_planning = 0.1
+				invasion_preparation = -0.2
+			}
+		}
+	}
+	country = {
+		CES_stableside_roads= {
+
+			available = {
+				NOT = { has_global_flag = equestrian_civil_war_ended }
+			}
+			picture = CES_stableside_roads
+			modifier = {
+				political_power_gain = 0.1
+				production_speed_buildings_factor = 0.05
+				production_speed_infrastructure_factor = 0.2
+				production_speed_industrial_complex_factor = 0.1
+			}
+		}
+	}
+	country = {
+		CES_disorganized_2 = {
+
+			allowed = {
+				original_tag = CES
+			}
+			picture = CES_disorganized
+			modifier = {
+				political_power_cost = 0.2
+				democratic_drift = 0.1
+				stability_factor = -0.35
+			}
+		}
+	}
+	country = {
+		CES_disorganized_3 = {
+
+			allowed = {
+				original_tag = CES
+			}
+			picture = CES_disorganized
+			modifier = {
+				political_power_cost = 0.2
+				democratic_drift = 0.1
+				stability_factor = -0.15
+			}
+		}
+	}
+	country = {
+		CES_uphold_harmony = {
+
+			allowed = {
+				original_tag = CES
+			}
+			picture = CES_uphold_harmony
+			modifier = {
+				political_power_gain = 0.05
+				democratic_drift = 0.01
+				stability_factor = 0.05
+				war_support_factor = 0.1
+				army_core_attack_factor = 0.15
+				army_core_defence_factor = 0.15
+			}
+		}
+	}
+	country = {
+		CES_uphold_harmony2 = {
+			
+			allowed = {
+				original_tag = CES
+			}
+			picture = CES_uphold_harmony
+			modifier = {
+				political_power_gain = 0.05
+				democratic_drift = 0.01
+				stability_factor = 0.05
+				war_support_factor = 0.1
+				army_core_attack_factor = 0.15
+				army_core_defence_factor = 0.15
+				production_speed_bunker_factor = 0.3
+				production_speed_infrastructure_factor = 0.1
+			}
+		}
+	}
+}

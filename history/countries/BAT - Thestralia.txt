@@ -1,0 +1,45 @@
+﻿capital = 30
+
+
+set_research_slots = 1
+
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	neutrality = 100
+}
+set_politics = {
+
+	ruling_party = neutrality
+	last_election = "1.10.10"
+	election_frequency = 36
+	elections_allowed = no
+}
+
+
+add_ideas = {
+}
+
+create_country_leader = {
+	name = "Thestral King"
+	desc = ""
+	picture = "cometchaser.tga"
+	expire = "1965.1.1"
+	ideology = tribal_council
+	traits = {
+	}
+}
+
+set_stability = 0.65
+set_war_support = 0.35
+add_manpower = 60000
+
+
+
+set_rule = {
+	can_generate_female_aces = yes
+}
+
+
+	
+

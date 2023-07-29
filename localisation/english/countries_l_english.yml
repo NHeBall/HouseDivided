@@ -1,0 +1,97 @@
+﻿l_english:
+
+EQS_neutrality:0 "Equestria"
+EQS_neutrality_DEF:0 "Equestria"
+EQS_neutrality_ADJ:0 "Equestrian"
+
+SOL_neutrality:0 "Random"
+SOL_neutrality_DEF:0 "Equestria"
+SOL_neutrality_ADJ:0 "Equestrian"
+
+UES_neutrality:0 "Equestrian Federal Union"
+UES_neutrality_DEF:0 "The Union"
+UES_neutrality_ADJ:0 "Federal"
+
+SCS_neutrality:0 "Confederation of Southern States"
+SCS_neutrality_DEF:0 "The South"
+SCS_neutrality_ADJ:0 "Rebel"
+
+BAT_neutrality:0 "Thestral Kingdom"
+BAT_neutrality_DEF:0 "The Thestralia"
+BAT_neutrality_ADJ:0 "Thestralian"
+
+JUN_neutrality:0 "Golden Empire"
+JUN_neutrality_DEF:0 "The Aztlan"
+JUN_neutrality_ADJ:0 "Aztlanian"
+
+LCM_neutrality:0 "Lush Plains Communities"
+LCM_neutrality_DEF:0 "The Lush Plains Communities"
+LCM_neutrality_ADJ:0 "Lush Plainer"
+
+MRC_neutrality:0 "County of Marecaster"
+MRC_neutrality_DEF:0 "The County of Marecaster"
+MRC_neutrality_ADJ:0 "Marecastrian"
+
+NWC_neutrality:0 "Northwestern Country"
+NWC_neutrality_DEF:0 "The Northwestern Country"
+NWC_neutrality_ADJ:0 "Northwestern"
+
+CTR_neutrality:0 "Canterlot Domain"
+CTR_neutrality_DEF:0 "The Canterlot Domain"
+CTR_neutrality_ADJ:0 "Domain"
+
+OLE_neutrality:0 "Kingdom of Olenia"
+OLE_neutrality_DEF:0 "The Kingdom of Olenia"
+OLE_neutrality_ADJ:0 "Olenian"
+
+CRY_neutrality:0 "Crystal Wastelands"
+CRY_neutrality_DEF:0 "The Crystal Wastelands"
+CRY_neutrality_ADJ:0 "Crystal"
+
+GRF_neutrality:0 "Imperial Colony"
+GRF_neutrality_DEF:0 "The Nova Griffonia"
+GRF_neutrality_ADJ:0 "Nova Griffonian"
+
+YAK_neutrality:0 "Khaganates of Yakyakistan"
+YAK_neutrality_DEF:0 "The Yakyakistan"
+YAK_neutrality_ADJ:0 "Yakyak"
+
+PNG_neutrality:0 "Kingdom of Pingland"
+PNG_neutrality_DEF:0 "The Kingdom of Pingland"
+PNG_neutrality_ADJ:0 "Pingland"
+
+PLB_neutrality:0 "Polar Bear Territories"
+PLB_neutrality_DEF:0 "The Polar Bear Territories"
+PLB_neutrality_ADJ:0 "Polar Bear"
+
+VSP_neutrality:0 "Greater Hive of Vesalipolis"
+VSP_neutrality_DEF:0 "The Greater Hive of Vesalipolis"
+VSP_neutrality_ADJ:0 "Vesapolitan"
+
+LCD_neutrality:0 "Lyctida Hive"
+LCD_neutrality_DEF:0 "The Lyctida Hive"
+LCD_neutrality_ADJ:0 "Lyctidian"
+
+VRK_neutrality:0 "Vraks Hive"
+VRK_neutrality_DEF:0 "The Vraks Hive"
+VRK_neutrality_ADJ:0 "Vraksian"
+
+DTR_neutrality:0 "Ditrysium Hive"
+DTR_neutrality_DEF:0 "The Dytrysium Hive"
+DTR_neutrality_ADJ:0 "Dytrysian"
+
+ATX_neutrality:0 "Antax Hive"
+ATX_neutrality_DEF:0 "The Antax Hive"
+ATX_neutrality_ADJ:0 "Antaxian"
+
+SPH_neutrality:0 "Soryth Hive"
+SPH_neutrality_DEF:0 "The Soryth Hive"
+SPH_neutrality_ADJ:0 "Sorythian"
+
+DRA_neutrality:0 "Dragon Lands"
+DRA_neutrality_DEF:0 "The Dragon Lands"
+DRA_neutrality_ADJ:0 "Dragons"
+
+
+
+

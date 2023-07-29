@@ -1,0 +1,44 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 931.5.1.12
+		picture = "GFX_bookmark_equus"
+		default_country = "EQS"
+		default = yes
+
+		"UES"={
+			history = "EQS_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				home_of_ponies
+				alicorn_sisters
+				friendly_harmony
+			}
+			focuses = {
+				Ministry_of_defense
+				Friendship_Games
+				unicorn_academy_f
+			}
+		}
+		"SCS"={
+			history = "CRY_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				crystal_heart
+				royal_family
+				sombra_threat
+			}
+			focuses = {
+				CRY_oldorder
+				CRY_comrevolution
+				CRY_oldking
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
